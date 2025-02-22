@@ -1,5 +1,5 @@
 body {
-    background-color: gradient#a1b6ef, #f5f5f5;
+    background: radial-gradient(circle, #a1b6ef, #58c3d1);
     font-family: 'Courier New', Courier, monospace, sans-serif;
 }
 
