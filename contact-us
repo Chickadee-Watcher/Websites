@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Our Slides</title>
+    <title>Contact Us</title>
     <link rel="stylesheet" href="styles/style.css">
 </head>
 <body>
@@ -16,11 +16,7 @@
             <li><a href="contact-us.html">Contact Us</a></li>
         </ul>
     </nav>
-    <h1>Our Slides</h1>
-    <p>Here are some of the slides we've created!</p>
-    <ol>
-    <li><a href="https://docs.google.com/presentation/d/1HDtJL_rS8g0v9A3tQOHIYApO_E7Vf2hFiLqKxZR9qpA/">The Journey To The Western Silk Road</a></li>
-    <li><a href="https://docs.google.com/presentation/d/1nvKYBOxKvio3HbIM27VoXvHip74ZN0VeeOBE_atYbss/">A guide to Photoshop with Google Slides</a></li>
-    </ol>
+    <h1>Join Our Team!</h1>
+    <p>Hi! if you want to contact Chickadee Studos, email <a href="mailto:sam@curlytops.org">sam@curlytops.org</a>, we will try our best to reply.</p>
 </body>
 </html>
