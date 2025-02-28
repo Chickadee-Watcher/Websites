@@ -30,3 +30,8 @@ nav ul {
         text-decoration: none;
         color: #111;
     }
+    
+    video {
+        width: auto;
+        height: 400px;
+    }
